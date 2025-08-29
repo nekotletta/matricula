@@ -1,8 +1,11 @@
 # Matrícula 
 
 
-[Español](https://github.com/nekotletta/matricula/blob/main/README-es.md)
+<div align="center">
+   
+[Documentación en Español](https://github.com/nekotletta/matricula/blob/main/README-es.md)
 
+</div>
 
 ## Overview 
 
