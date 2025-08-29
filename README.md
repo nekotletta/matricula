@@ -7,19 +7,25 @@
 
 </div>
 
-## Overview 
+<div align="center">
+<h2>Overview</h1> 
+</div>
 
 Matrícula is a project built explicitly to improve on University of Puerto Rico's (UPR) enrollment system. This project aims to showcase what could be possible if UPR decided to modernize their system. The project is built with a UX focus, to make it as easy to navigate as possible.
 
 This project was used using React for the frontend and Django for the backend.
 
-### Context
+<div align="center">
+<h2>Context</h2>
+</div>
 
 UPR's enrollment system is an incredibly outdated system (built in the 70s), entirely built on a terminal, as opposed to a webpage.
 
 This has always been a huge issue due to how unfriendly the whole system is for students. Students who use it for the first time are often confused and scared of it, since they've never used a terminal before. Not only that, but the navigation isn't straightforward either.
 
-## FAQ
+<div align="center">
+<h2>FAQ</h2>
+</div>
 
 ### Why was this project created?
 
@@ -37,7 +43,9 @@ No, this project is not connected directly to the UPR in any way. This is just a
 
 This project was developed by a single computer science (CS) student for the UPR. Please note that due to this, not everything will work perfectly, or something you think should be in the project is missing.
 
-## Features
+<div align="center">
+<h2>Features</h2>
+</div>
 
 The project has all the features that the enrollment system has, along with two additional ones.
 
