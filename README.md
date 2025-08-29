@@ -1,5 +1,9 @@
 # Matrícula 
 
+
+[Español](https://github.com/nekotletta/matricula/blob/main/README-es.md)
+
+
 ## Overview 
 
 Matrícula is a project built explicitly to improve on University of Puerto Rico's (UPR) enrollment system. This project aims to showcase what could be possible if UPR decided to modernize their system. The project is built with a UX focus, to make it as easy to navigate as possible.
