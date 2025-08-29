@@ -15,6 +15,8 @@ Matrícula is a project built explicitly to improve on University of Puerto Rico
 
 This project was used using React for the frontend and Django for the backend.
 
+![Matricula showcase](https://github.com/nekotletta/matricula/blob/main/matricula-home.png)
+
 <div align="center">
 <h2>Context</h2>
 </div>
