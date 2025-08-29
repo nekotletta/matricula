@@ -1,5 +1,6 @@
-# Matrícula 
-
+<div align="center">
+<h1>Matrícula</h1> 
+</div>
 
 <div align="center">
    
